@@ -73,11 +73,11 @@
 			<InputMapping>P1Button2</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
-			<ButtonName>P1 Dash (Normal & Simple)</ButtonName>
+			<ButtonName>P1 Shoot (Normal/Simple)</ButtonName>
 			<InputMapping>P1Button3</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
-			<ButtonName>P1 Dash (Normal & Simple)</ButtonName>
+			<ButtonName>P1 Dash (Normal/Simple)</ButtonName>
 			<InputMapping>P1Button4</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
@@ -109,11 +109,11 @@
 			<InputMapping>P2Button2</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
-			<ButtonName>P2 Shoot (Normal & Simple)</ButtonName>
+			<ButtonName>P2 Shoot (Normal/Simple)</ButtonName>
 			<InputMapping>P2Button3</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
-			<ButtonName>P2 Dash (Normal & Simple)</ButtonName>
+			<ButtonName>P2 Dash (Normal/Simple)</ButtonName>
 			<InputMapping>P2Button4</InputMapping>
 		</JoystickButtons>
 	</JoystickButtons>
