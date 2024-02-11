@@ -77,7 +77,7 @@
 			<InputMapping>P1Button3</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
-			<ButtonName>Player 1 Button 4</ButtonName>
+			<ButtonName>P1 Dash (Normal & Simple)</ButtonName>
 			<InputMapping>P1Button4</InputMapping>
 		</JoystickButtons>
 		<JoystickButtons>
